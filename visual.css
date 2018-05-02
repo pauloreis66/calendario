@@ -1,0 +1,167 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	font-size: 12px;
+	line-height: 2em;
+	color: #000000;
+	background: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: 800px;
+}
+
+p {
+	margin-top: 10px;
+	}  
+
+a.datas: link {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+a.datas: visited {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+a.datas: hoover {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+a.datas: active {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+a.calendario: link {
+	text-decoration: none;
+	color: red;
+	display: block;
+	height: 100%;
+	background: white;
+	padding: 10px;
+}
+
+a.calendario: visited {
+	text-decoration: none;
+	color: red;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: white;
+	padding: 3px;
+}
+
+a.calendario: hoover {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: #ffffcc;
+	border: thin solid black;
+	padding: 0px;
+}
+
+a.calendario: active {
+	text-decoration: none;
+	color: red;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: white;
+	padding: 3px;
+}
+
+a.evento: link {
+	text-decoration: none;
+	color: blue;
+	width: 100%;
+	background: lightblue;
+	padding: 3px;
+}
+
+a.evento: visited {
+	text-decoration: none;
+	color: blue;
+	width: 100%;
+	background: lightblue;
+	padding: 3px;
+}
+
+/* formatacao para apagar evento */
+a.apagar_evento: link {
+	text-decoration: none;
+	color: blue;
+	background: red;
+	border: thin solid black;
+	padding: 3px;
+}
+
+a.apagar_evento: visited {
+	text-decoration: none;
+	color: blue;
+	background: red;
+	border: thin solid black;
+	padding: 3px;
+}
+
+table.detalhe_evento {
+	text-decoration: none;
+	color: white;
+	background: #aa0000;
+}
+
+tr.detalhe_evento {
+	text-decoration: none;
+	color: green;
+	font-size: 20px;
+	background: #cccccc;
+}
+
+a.detalhe_evento: link {
+	text-decoration: none;
+	color: blue;
+	width: 100%;
+	background: white;
+	padding: 3px;
+}
+
+table.calendario {
+	border: thin solid black;
+}
+
+th.calendario {
+	background: #aa0000;
+	color: #ffffff;
+}
+
+td.datas {
+	background: #333333;
+	color: #ffffff;
+}
+
+td.calendario {
+	
+}
+
+span.cabecalho {
+	font-family: arial, verdana, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
