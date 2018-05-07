@@ -1,2 +1,3 @@
 # calendario
-calendario web - um sistema simples de registo de eventos
+calendario web - testes de scripts para um sistema simples de registo de eventos. 
+In Progress...
